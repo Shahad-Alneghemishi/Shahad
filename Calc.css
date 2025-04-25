@@ -28,6 +28,7 @@ body {
   gap: 10px;
 }
 button {
+  color: #000000 !important;
   padding: 20px;
   font-size: 18px;
   border: none;
